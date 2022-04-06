@@ -1,4 +1,4 @@
-date, cases, hosp.occ, cum.death, ICU
+date, cases, hosp.occ, cum.death, ICU.occ
 2022-03-12,735,,76,
 2022-03-13,527,,76,
 2022-03-14,443,,76,
